@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2020 edition hosted in Montreal!
-tags: [news]
+title: 2019 Edition
+tags: [edition]
 excerpt_separator: <!--more-->
 ---
 

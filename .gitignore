@@ -21,10 +21,11 @@ Gemfile.lock
 *.gem
 .gems
 jekyll-theme-type-on-strap.gemspec
+.jekyll-metadata
 
 # Node js files
 **/node_modules/*
 *-test.md
 *copy.md
-.jekyll-cache/*
+.jekyll-cache/
 test/*
