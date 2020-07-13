@@ -8,7 +8,20 @@ tags: [Committees]
 
 ## Program Committee
 
-TBA
+- Miguel Ángel Jiménez Achinte, University of Victoria
+- Alfredo	Capozucca, University of Luxembourg
+- Guilhem	Molines, IBM
+- Benjamin	Benni, Concordia University		
+- Ludovico	Iovino, Gran Sasso Science Institute, L'Aquila
+- Lorenzo	Bettini
+- Nicolas	Ferry, SINTEF ICT
+- Kelly	Garces Pernett, Universidad de los Andes
+- Jordi	Cabot, ICREA - UOC (Internet interdisciplinary institute)
+- Martina	De Sanctis, Gran Sasso Science Institute - GSSI
+- Manuel	Wimmer, TU Wien
+- Bentley	Oakes, University of Antwerp
+- Beatriz A. Sanchez,	University of York
+- Evgenii	Bobrov, Innopolis University	
 
 ## Organizers
 
