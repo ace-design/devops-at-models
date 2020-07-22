@@ -24,3 +24,5 @@ For this 2020 edition, we want to move from the "mini-conference" format to a mo
   * Abstract-contributions (extended abstract of 2 pages): Participants are encouraged to provide a short abstract where they state their interests and potential contributions to the workshop. They can also propose research challenges related to the theme. Industrial contributions are particularly welcomed in this category.
 
 The work-in-progress papers will be included in the proceedings.
+
+To submit a paper, use the following EasyChair submission site: [https://easychair.org/conferences/?conf=devopsmodels20](https://easychair.org/conferences/?conf=devopsmodels20)
