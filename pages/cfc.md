@@ -9,7 +9,7 @@ tags: [CfP]
 
 ## Important dates
 
-  - Submission Deadline: <del>July 15, 2020</del> July 22, 2020
+  - Submission Deadline: <del>July 15, 2020</del> July 26, 2020
   - Notification: August 14-21, 2020
   - Camera-ready versions: August 28, 2020
   - Workshop date: TBA
