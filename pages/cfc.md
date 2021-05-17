@@ -5,24 +5,22 @@ permalink: /call-for-contributions/
 tags: [CfP]
 ---
 
-# DevOps et Models 2020
+# DevOps et Models 2021
 
 ## Important dates
 
-  - Submission Deadline: <del>July 15, 2020</del> July 26, 2020
-  - Notification: August 14-21, 2020
-  - Camera-ready versions: August 28, 2020
+  - Submission Deadline: July 30, 2021
+  - Notification: August 14-21, 2021
+  - Camera-ready versions: August 28, 2021
   - Workshop date: TBA
 
 ## Expected Contributions
 
-All submitted artifacts must use English. All textual documents must adhere to the Springer LNCS formatting guidelines
+All submitted artifacts must use English. All textual documents must adhere to the guidelines provided by the main conference with respect to IEEE template. 
 
-For this 2020 edition, we want to move from the "mini-conference" format to a more interactive workshop.  To encourage this atmosphere of discussions and brainstorming, we are encouraging participants to submit short presentations of their work.
+For this year, we want to promote a workshop based on more discussions than paper presentation, to avoid the "mini-conference" bias. Thus, we encourage two types of submissions : _(1)_ papers (5 to 10 IEEE pages) describing work-in progress contributions to the challenges (that will be included in the proceedings), and _(2)_ short abstract (200 words) gathering thoughts about the participants with respect to the identified challenges.
 
   * Work-in-progress contributions (5 to 10 pages): papers addressing relevant experience reports, challenges, trends, and opportunities (see the [About page](../about/) for topics of interests) are particularly encouraged.
-  * Abstract-contributions (extended abstract of 2 pages): Participants are encouraged to provide a short abstract where they state their interests and potential contributions to the workshop. They can also propose research challenges related to the theme. Industrial contributions are particularly welcomed in this category.
+  * Abstract-contributions (extended abstract of 200 words): Participants are encouraged to provide a short abstract where they state their interests and potential contributions to the workshop. They can also propose research challenges related to the theme. Industrial contributions are particularly welcomed in this category.
 
-The work-in-progress papers will be included in the proceedings.
-
-To submit a paper, use the following EasyChair submission site: [https://easychair.org/conferences/?conf=devopsmodels20](https://easychair.org/conferences/?conf=devopsmodels20)
+To submit a paper, use the following EasyChair submission site: [TBA](TBA)
