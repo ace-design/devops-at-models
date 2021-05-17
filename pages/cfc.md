@@ -23,4 +23,4 @@ For this year, we want to promote a workshop based on more discussions than pape
   * Work-in-progress contributions (5 to 10 pages): papers addressing relevant experience reports, challenges, trends, and opportunities (see the [About page](../about/) for topics of interests) are particularly encouraged.
   * Abstract-contributions (extended abstract of 200 words): Participants are encouraged to provide a short abstract where they state their interests and potential contributions to the workshop. They can also propose research challenges related to the theme. Industrial contributions are particularly welcomed in this category.
 
-To submit a paper, use the following EasyChair submission site: [TBA](TBA)
+To submit a paper, use the following EasyChair submission site: [https://easychair.org/my/conference?conf=devopsmodels21](https://easychair.org/my/conference?conf=devopsmodels21)
