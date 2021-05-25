@@ -6,30 +6,23 @@ tags: [Committees]
 ---
 
 
-## Program Committee
+## Program Committee (2021)
 
-- Miguel Ángel Jiménez Achinte, University of Victoria
-- Alfredo	Capozucca, University of Luxembourg
-- Guilhem	Molines, IBM
-- Benjamin	Benni, Concordia University		
-- Ludovico	Iovino, Gran Sasso Science Institute, L'Aquila
-- Lorenzo	Bettini
-- Nicolas	Ferry, SINTEF ICT
-- Kelly	Garces Pernett, Universidad de los Andes
-- Jordi	Cabot, ICREA - UOC (Internet interdisciplinary institute)
-- Martina	De Sanctis, Gran Sasso Science Institute - GSSI
-- Manuel	Wimmer, TU Wien
-- Bentley	Oakes, University of Antwerp
-- Beatriz A. Sanchez,	University of York
-- Evgenii	Bobrov, Innopolis University	
+- Wesley K. G. Assunção (Pontifical Catholic University of Rio de Janeiro, Brazil)
+- Alfredo Capozucca (University of Luxembourg, Luxembourg)
+- Nicolas Ferry (Université Côte d'Azur, France)
+- Grischa Liebel (Reykjavik University, Iceland)
+- Henri Muccini (University of L'Aquila, Italy)
+- Matthias Tichy (Ulm University, Germany)
+- Alberto Sillitti (Innopolis University, Russia)
+- Manuel Wimmer (Johannes Kepler University Linz, Austria)
+- ... 
 
 ## Organizers
 
-**Francis Bordeleau** is professor at _École de Technologie Supérieure_ (ETS) in Montréal. He is currently working on establishing of an industry research chair, which includes the development on new course, on DevOps. He has over 25 years of experience in software and model-based engineering (MBE); researching, working, consulting, and collaborating with companies worldwide. Prior to joining ETS, he was the founder of Cmind (2017-), product manager of SW Development at Ericsson (2013-2017), founder and CEO of Zeligsoft (2003-2013), director of Tooling Business for PrismTech (2010-2013), and assistant professor at Carleton University (1997-2006). Francis has been part of the organizing and program committee of many international conferences and workshops, including MODELS,ICSE, ECMFA, DevOps@MODELS'19, MDETools, PAINS, OSS4MDE, and MiSE.
+**Francis Bordeleau** is Professor at _École de Technologie Supérieure_ (ETS) in Montréal. He is currently working on establishing of an industry research chair, which includes the development on new course, on DevOps. He has over 25 years of experience in software and model-based engineering (MBE); researching, working, consulting, and collaborating with companies worldwide. Prior to joining ETS, he was the founder of Cmind (2017-), product manager of SW Development at Ericsson (2013-2017), founder and CEO of Zeligsoft (2003-2013), director of Tooling Business for PrismTech (2010-2013), and assistant professor at Carleton University (1997-2006). Francis has been part of the organizing and program committee of many international conferences and workshops, including MODELS,ICSE, ECMFA, DevOps@MODELS'19, MDETools, PAINS, OSS4MDE, and MiSE.
 
-
-**Jean-Michel Bruel** is professor at University of Toulouse and is head of the SM@RT team of the IRIT CNRS laboratory. His research areas include development of software intensive Cyber-Physical Systems, methods/model/language integration, with a main focus on Requirements and Model-Based Systems Engineering. He designed an undergraduate course dedicated to Continuous Integration at Université de Toulouse. Jean-Michel has been part of the organizing and program committee of many international conferences and workshops, including MODELS, ECMFA, DevOps@MODELS'19, MDETools, OSS4MDE, and DevOps.
-
+**Jean-Michel Bruel** is Professor at University of Toulouse and is head of the SM@RT team of the IRIT CNRS laboratory. His research areas include development of software intensive Cyber-Physical Systems, methods/model/language integration, with a main focus on Requirements and Model-Based Systems Engineering. He designed an undergraduate course dedicated to Continuous Integration at Université de Toulouse. Jean-Michel has been part of the organizing and program committee of many international conferences and workshops, including MODELS, ECMFA, DevOps@MODELS'19, MDETools, OSS4MDE, and DevOps.
 
 **Juergen Dingel** is Professor in the School of Computing at Queen's University.  His research is centered around the development and use of informal and formal techniques for the analysis of software artifacts.  Juergen was co-organizer of the following MODELS  workshops: DevOps@MODELS'19, MDETools'17-'19, OSS4MDE'14-'16, AMT'12-'15, and MASE'15, the Workshop on Software Modeling for Embedded and Sensor Network Systems at CASCON'11, PC co-chair of the FMOODS/FORTE'11 conference and the DEBS'05 workshop, Workshop co-chair for MODELS'10, and Chair of the Doctoral Symposium at MODELS'09.  In 2014, he served as PC chair of the Foundations Track of MODELS'14.
 

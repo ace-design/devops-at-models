@@ -5,7 +5,7 @@ permalink: /call-for-contributions/
 tags: [CfP]
 ---
 
-# DevOps et Models 2021
+# DevOps@Models 2021
 
 ## Important dates
 
