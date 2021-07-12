@@ -14,7 +14,7 @@ tags: [Committees]
 - Alfredo Capozucca (University of Luxembourg, Luxembourg)
 - Romina Eramo (University of L'Aquila)
 - Nicolas Ferry (Université Côte d'Azur, France)
-- Nicolas Hilli (Grenoble Alpes University, France)
+- Nicolas Hili (Grenoble Alpes University, France)
 - Grischa Liebel (Reykjavik University, Iceland)
 - Henri Muccini (University of L'Aquila, Italy)
 - Candy Pang (MacEwan University, Canada)
