@@ -8,15 +8,22 @@ tags: [Committees]
 
 ## Program Committee (2021)
 
+- Aitor Arrieta (Mondragon Goi Eskola Politeknikoa, Spain)
 - Wesley K. G. Assunção (Pontifical Catholic University of Rio de Janeiro, Brazil)
+- Benjamin Benni (Instant System, France)
 - Alfredo Capozucca (University of Luxembourg, Luxembourg)
+- Romina Eramo (University of L'Aquila)
 - Nicolas Ferry (Université Côte d'Azur, France)
+- Nicolas Hilli (Grenoble Alpes University, France)
 - Grischa Liebel (Reykjavik University, Iceland)
 - Henri Muccini (University of L'Aquila, Italy)
+- Candy Pang (MacEwan University, Canada)
 - Matthias Tichy (Ulm University, Germany)
 - Alberto Sillitti (Innopolis University, Russia)
+- Matthias Tichy (Ulm University, Germany)
 - Manuel Wimmer (Johannes Kepler University Linz, Austria)
-- ... 
+- Andreas Wortmann (University of Stuttgart, Germany)
+- Mark van der Brandt (Eindhoven University of Technology, Netherlands)
 
 ## Organizers
 
