@@ -18,7 +18,7 @@ This workshops serie has the ambition to cover the following topics/questions:
 
   * **Modeling for Human-AI Collaborative Society (MODELS 2021 theme)**:
     - How can DevOps support AI development from an MDE point of view?
-    - How can modelling approaches support the integration of data in a DevOps approach (\emph{e.g.}, digital twins)?
+    - How can modelling approaches support the integration of data in a DevOps approach (_e.g._, digital twins)?
     - Can modelling help the design of scalable (in terms of data) DevOps approaches? 
     - How can models contribute to the integration of new data sources in an open-data context?
   * **Modelling for DevOps**:
