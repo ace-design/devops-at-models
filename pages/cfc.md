@@ -10,7 +10,7 @@ tags: [CfP]
 ## Important dates
 
   - Submission Deadline: July 30, 2021
-  - Notification: August 14-21, 2021
+  - Notification: August 21, 2021
   - Camera-ready versions: August 28, 2021
   - Workshop date: TBA
 
