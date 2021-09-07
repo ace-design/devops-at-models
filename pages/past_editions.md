@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Past Editions
+title: Editions
 permalink: /past/
 feature-img: "assets/img/pexels/laptop.jpg"
 tags: [Archive]
