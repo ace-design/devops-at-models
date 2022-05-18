@@ -16,11 +16,14 @@ The goal of this workshop is to bring together researchers and practitioners, fr
 
 This workshops serie has the ambition to cover the following topics/questions:
 
-  * **Modeling for Human-AI Collaborative Society (MODELS 2021 theme)**:
-    - How can DevOps support AI development from an MDE point of view?
-    - How can modelling approaches support the integration of data in a DevOps approach (_e.g._, digital twins)?
-    - Can modelling help the design of scalable (in terms of data) DevOps approaches? 
+  * **Modeling for social good (MODELS 2022 theme)**:
+    - How can DevOps and modelling approaches be combined to deliver more value faster and with better quality to users?
+    - How can DevOps and modelling approaches be combined to better integrate data to increase user value?
+    - How can DevOps and modelling approaches be combined to better protect personal data?
+    - How can DevOps and modelling approaches be combined to better integrate data to improve systems and processes (e.g., using digital twins)?
     - How can models contribute to the integration of new data sources in an open-data context?
+    - How can modeling contribute to DevSecOps to ensure security and safety of socio-technical systems?
+    - How can modeling and DevOps contribute to increase availability, reliability, safety, security, and usability of systems in general?
   * **Modelling for DevOps**:
     - Modelling can easily be linked to "dev", what is its relationship to "ops"?
     - What aspects of DevOps can modeling contribute to?
