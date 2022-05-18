@@ -11,8 +11,7 @@ In the last decade, DevOps has emerged as the prominent approach to increase pro
 
 Model-driven engineering (MDE) aims at increasing productivity and systems quality through the use of models that are understandable and actionable. It enables the use of analysis and generation techniques to automate different parts of the development process. The MDE approach relies on pillars such as dedicated languages definition, formal model reasoning or code generation. 
 
-
-The goal of this workshop is to bring together researchers and practitioners, from both industry and academia, to discuss how MDE and DevOps can complement and contribute to each other. MODELS 2021 being dedicated to _Modeling for Human-AI Collaborative Society}_, we propose a dedicated topic in the workshop scope.
+The goal of this workshop is to bring together researchers and practitioners, from both industry and academia, to discuss how MDE and DevOps can complement and contribute to each other.
 
 This workshops serie has the ambition to cover the following topics/questions:
 
