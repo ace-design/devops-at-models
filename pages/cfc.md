@@ -39,4 +39,6 @@ and opportunities (see the About page for topics of interests) are particularly 
 
 Accepted results and work-in-progress contributions will be included in the workshop proceedings. The organizers will summarize all the abstract and the associated discussions in a comprehensive report that will be included in the proceedings. 
 
-To submit a paper, use the following EasyChair submission site: [TBA](TBA)
+To submit a paper, use the following EasyChair submission site: [https://easychair.org/conferences/?conf=devopsmodels22](https://easychair.org/conferences/?conf=devopsmodels22)
+
+Organizers can be contacted directly using this email address: [devopsmodels22@easychair.org](devopsmodels22@easychair.org)
