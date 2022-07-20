@@ -8,7 +8,23 @@ tags: [Committees]
 
 ## Program Committee (2022)
 
-- TBA
+  - Muhammad Ali Baba, The University of Adelaide, Australia
+  - Alessandra Bagnato, Softeam, France
+  - Benjamin Benni, Instant System, France
+  - Jean-Michel Bruel, IRIT, France
+  - Alfredo Capozucca, University of Luxembourg, Luxembourg
+  - Romina Eramo, University of L'Aquila, Italy
+  - Nicolas Ferry, Université Côte d'Azur, France
+  - Nicolas Hili, Université Grenoble-Alpes, France
+  - Philippe Massonet, CETIC, Belgium
+  - Jose Morales, Carnegie Mellon University, USA
+  - Candy Pang, MacEwan University, Canada
+  - Christophe Ponsard, CETIC, Beligum
+  - Matthias Tichy, Ulm University, Germany
+  - Manuel Wimmer, Johannes Kepler University Linz, Austria
+  - Andreas Wortmann, University of Stuttgart, Germany
+  - Hasan Yasar, Carnegie Mellon University, USA
+  - Mark van den Brand, Eindhoven University of Technology, Netherlands
 
 ## Organizers
 
