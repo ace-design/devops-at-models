@@ -9,7 +9,7 @@ tags: [CfP]
 
 ## Important dates
 
-  - Submission Deadline: July 20, 2022
+  - Submission Deadline: ~~July 20, 2022~~ July 31, 2022 (AoE)
   - Notification: August 19, 2022
   - Camera-ready versions: August 26, 2022
   - Workshop date: TBA (23-25 October)
